@@ -26,3 +26,6 @@ To view the web application with the static HTML content this would be
 
 /restaurant/booking/tables/
 /restaurant/booking/tables/{bookingId}
+
+Username: user
+Pass: Password123
